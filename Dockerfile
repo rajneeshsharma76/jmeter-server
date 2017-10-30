@@ -1,6 +1,6 @@
 # Use Rajneeshsharma76/docker-jmeter-base
 
-FROM rajneeshsharma76/docker-jmeter-base
+FROM rajneeshsharma76/jmeterbase
 MAINTAINER Rajneesh Sharma
 
 # Ports to be exposed from the container for JMeter Slaves/Server
